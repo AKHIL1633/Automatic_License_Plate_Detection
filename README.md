@@ -6,7 +6,7 @@
 
 Using both the `COCO Model` to detect the vehicles and the `License Plate Model` to recognize the plate, and then with EasyOCR to extract the info from the cropped plate image.
 
-<img src="./imgs/interface.png" width="800"/>
+<img src="./frontend.jpg" width="800"/>
 
 ## Check-it out
 Test it by running the `app.py` file, built with `Streamlit`.
