@@ -16,7 +16,7 @@ Test it by running the `app.py` file, built with `Streamlit`.
 streamlit run app.py
 ```
 
-<img src="./imgs/interface2.png" width="800"/>
+<img src="./result.jpg" width="800"/>
 
 ## Resources
 - Licenses Plates Dataset: https://universe.roboflow.com/roboflow-universe-projects/license-plate-recognition-rxg4e/dataset/4
